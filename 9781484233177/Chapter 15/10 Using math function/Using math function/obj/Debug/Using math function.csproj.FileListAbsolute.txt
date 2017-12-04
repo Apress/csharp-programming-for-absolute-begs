@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\Using math function\Using math function\bin\Debug\Using math function.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\10 Using math function\Using math function\bin\Debug\Using math function.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\10 Using math function\Using math function\bin\Debug\Using math function.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\10 Using math function\Using math function\bin\Debug\Using math function.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\10 Using math function\Using math function\obj\Debug\Using math function.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\10 Using math function\Using math function\obj\Debug\Using math function.pdb

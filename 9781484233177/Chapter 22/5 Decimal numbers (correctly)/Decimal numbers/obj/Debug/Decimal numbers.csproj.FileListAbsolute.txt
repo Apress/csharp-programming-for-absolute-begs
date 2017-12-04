@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\Decimal numbers\Decimal numbers\bin\Debug\Decimal numbers.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\5 Decimal numbers (correctly)\Decimal numbers\bin\Debug\Decimal numbers.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\5 Decimal numbers (correctly)\Decimal numbers\bin\Debug\Decimal numbers.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\5 Decimal numbers (correctly)\Decimal numbers\bin\Debug\Decimal numbers.pdb
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\5 Decimal numbers (correctly)\Decimal numbers\obj\Debug\Decimal numbers.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\5 Decimal numbers (correctly)\Decimal numbers\obj\Debug\Decimal numbers.pdb

@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\Deadline check\Deadline check\bin\Debug\Deadline check.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\3 Deadline check\Deadline check\bin\Debug\Deadline check.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\3 Deadline check\Deadline check\bin\Debug\Deadline check.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\3 Deadline check\Deadline check\bin\Debug\Deadline check.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\3 Deadline check\Deadline check\obj\Debug\Deadline check.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\3 Deadline check\Deadline check\obj\Debug\Deadline check.pdb

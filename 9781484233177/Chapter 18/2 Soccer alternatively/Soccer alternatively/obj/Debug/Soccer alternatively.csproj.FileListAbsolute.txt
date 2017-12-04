@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\Soccer alternatively\Soccer alternatively\bin\Debug\Soccer alternatively.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\2 Soccer alternatively\Soccer alternatively\bin\Debug\Soccer alternatively.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\2 Soccer alternatively\Soccer alternatively\bin\Debug\Soccer alternatively.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\2 Soccer alternatively\Soccer alternatively\bin\Debug\Soccer alternatively.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\2 Soccer alternatively\Soccer alternatively\obj\Debug\Soccer alternatively.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\2 Soccer alternatively\Soccer alternatively\obj\Debug\Soccer alternatively.pdb

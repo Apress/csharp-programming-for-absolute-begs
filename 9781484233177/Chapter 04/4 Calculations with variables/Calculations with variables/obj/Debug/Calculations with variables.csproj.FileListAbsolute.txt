@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-4 (Variables)\Programs\Calculations with variables\Calculations with variables\bin\Debug\Calculations with variables.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\4 Calculations with variables\Calculations with variables\bin\Debug\Calculations with variables.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\4 Calculations with variables\Calculations with variables\bin\Debug\Calculations with variables.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\4 Calculations with variables\Calculations with variables\bin\Debug\Calculations with variables.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\4 Calculations with variables\Calculations with variables\obj\Debug\Calculations with variables.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\4 Calculations with variables\Calculations with variables\obj\Debug\Calculations with variables.pdb

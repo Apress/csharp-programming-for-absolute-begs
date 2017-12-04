@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-5 (Objects)\Programs\Date components\Date components\bin\Debug\Date components.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\3 Date components\Date components\bin\Debug\Date components.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\3 Date components\Date components\bin\Debug\Date components.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\3 Date components\Date components\bin\Debug\Date components.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\3 Date components\Date components\obj\Debug\Date components.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\3 Date components\Date components\obj\Debug\Date components.pdb

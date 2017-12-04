@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\Increment and decrement\Increment and decrement\bin\Debug\Increment and decrement.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\4 Increment and decrement\Increment and decrement\bin\Debug\Increment and decrement.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\4 Increment and decrement\Increment and decrement\bin\Debug\Increment and decrement.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\4 Increment and decrement\Increment and decrement\bin\Debug\Increment and decrement.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\4 Increment and decrement\Increment and decrement\obj\Debug\Increment and decrement.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\4 Increment and decrement\Increment and decrement\obj\Debug\Increment and decrement.pdb

@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-6 (More difficult loops)\Programs\Power\Power\bin\Debug\Power.exe.config
+D:\mP\!Knihy\C# (A)\Part 4 (Loops)\Téma 4-6 (More difficult loops)\Programs\2 Power\Power\bin\Debug\Power.exe.config
+D:\mP\!Knihy\C# (A)\Part 4 (Loops)\Téma 4-6 (More difficult loops)\Programs\2 Power\Power\bin\Debug\Power.exe
+D:\mP\!Knihy\C# (A)\Part 4 (Loops)\Téma 4-6 (More difficult loops)\Programs\2 Power\Power\bin\Debug\Power.pdb
+D:\mP\!Knihy\C# (A)\Part 4 (Loops)\Téma 4-6 (More difficult loops)\Programs\2 Power\Power\obj\Debug\Power.exe
+D:\mP\!Knihy\C# (A)\Part 4 (Loops)\Téma 4-6 (More difficult loops)\Programs\2 Power\Power\obj\Debug\Power.pdb

@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-4 (Variables)\Programs\Grand combination\Grand combination\bin\Debug\Grand combination.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\5 Grand combination\Grand combination\bin\Debug\Grand combination.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\5 Grand combination\Grand combination\bin\Debug\Grand combination.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\5 Grand combination\Grand combination\bin\Debug\Grand combination.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\5 Grand combination\Grand combination\obj\Debug\Grand combination.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\5 Grand combination\Grand combination\obj\Debug\Grand combination.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\5 Grand combination\Grand combination\obj\Debug\Grand combination.pdb

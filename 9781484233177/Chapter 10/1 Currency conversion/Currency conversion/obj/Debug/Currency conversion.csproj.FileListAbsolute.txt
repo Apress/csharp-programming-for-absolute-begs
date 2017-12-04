@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\Currency conversion\Currency conversion\bin\Debug\Currency conversion.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\1 Currency conversion\Currency conversion\bin\Debug\Currency conversion.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\1 Currency conversion\Currency conversion\bin\Debug\Currency conversion.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\1 Currency conversion\Currency conversion\bin\Debug\Currency conversion.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\1 Currency conversion\Currency conversion\obj\Debug\Currency conversion.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\1 Currency conversion\Currency conversion\obj\Debug\Currency conversion.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\1 Currency conversion\Currency conversion\obj\Debug\Currency conversion.pdb

@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\Conditional operator\Conditional operator\bin\Debug\Conditional operator.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\1 Conditional operator\Conditional operator\bin\Debug\Conditional operator.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\1 Conditional operator\Conditional operator\bin\Debug\Conditional operator.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\1 Conditional operator\Conditional operator\bin\Debug\Conditional operator.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\1 Conditional operator\Conditional operator\obj\Debug\Conditional operator.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\1 Conditional operator\Conditional operator\obj\Debug\Conditional operator.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\1 Conditional operator\Conditional operator\obj\Debug\Conditional operator.pdb

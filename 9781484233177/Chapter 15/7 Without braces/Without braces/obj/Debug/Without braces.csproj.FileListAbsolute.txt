@@ -1,0 +1,2 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\Without braces\Without braces\bin\Debug\Without braces.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\7 Without braces\Without braces\bin\Debug\Without braces.exe.config

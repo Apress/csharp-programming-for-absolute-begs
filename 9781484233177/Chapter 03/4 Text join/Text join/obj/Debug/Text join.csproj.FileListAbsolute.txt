@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\Text join\Text join\bin\Debug\Text join.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\4 Text join\Text join\bin\Debug\Text join.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\4 Text join\Text join\bin\Debug\Text join.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\4 Text join\Text join\bin\Debug\Text join.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\4 Text join\Text join\obj\Debug\Text join.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\4 Text join\Text join\obj\Debug\Text join.pdb

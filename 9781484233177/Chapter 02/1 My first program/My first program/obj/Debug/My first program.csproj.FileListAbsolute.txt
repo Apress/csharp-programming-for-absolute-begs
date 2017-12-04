@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-2 (First program)\Programs\My first program\My first program\bin\Debug\My first program.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-2 (First program)\Programs\1 My first program\My first program\bin\Debug\My first program.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-2 (First program)\Programs\1 My first program\My first program\bin\Debug\My first program.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-2 (First program)\Programs\1 My first program\My first program\bin\Debug\My first program.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-2 (First program)\Programs\1 My first program\My first program\obj\Debug\My first program.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-2 (First program)\Programs\1 My first program\My first program\obj\Debug\My first program.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-2 (First program)\Programs\1 My first program\My first program\obj\Debug\My first program.pdb

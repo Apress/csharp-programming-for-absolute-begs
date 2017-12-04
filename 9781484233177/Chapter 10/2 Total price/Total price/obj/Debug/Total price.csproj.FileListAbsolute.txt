@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\Total price\Total price\bin\Debug\Total price.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\2 Total price\Total price\bin\Debug\Total price.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\2 Total price\Total price\bin\Debug\Total price.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\2 Total price\Total price\bin\Debug\Total price.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\2 Total price\Total price\obj\Debug\Total price.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\2 Total price\Total price\obj\Debug\Total price.pdb

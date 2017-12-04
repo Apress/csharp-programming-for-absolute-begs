@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\Calculation\Calculation\bin\Debug\Calculation.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\2 Calculation\Calculation\bin\Debug\Calculation.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\2 Calculation\Calculation\bin\Debug\Calculation.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\2 Calculation\Calculation\bin\Debug\Calculation.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\2 Calculation\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\2 Calculation\Calculation\obj\Debug\Calculation.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\2 Calculation\Calculation\obj\Debug\Calculation.pdb

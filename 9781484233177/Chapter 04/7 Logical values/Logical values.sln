@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logical values", "Logical values\Logical values.csproj", "{5705B7D0-30CF-4209-915B-AB7FA63D708B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5705B7D0-30CF-4209-915B-AB7FA63D708B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5705B7D0-30CF-4209-915B-AB7FA63D708B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5705B7D0-30CF-4209-915B-AB7FA63D708B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5705B7D0-30CF-4209-915B-AB7FA63D708B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

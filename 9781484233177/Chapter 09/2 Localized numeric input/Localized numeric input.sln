@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localized numeric input", "Localized numeric input\Localized numeric input.csproj", "{4FDDB2EC-4971-4057-B70D-F65AF98FDD8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FDDB2EC-4971-4057-B70D-F65AF98FDD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDDB2EC-4971-4057-B70D-F65AF98FDD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDDB2EC-4971-4057-B70D-F65AF98FDD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDDB2EC-4971-4057-B70D-F65AF98FDD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

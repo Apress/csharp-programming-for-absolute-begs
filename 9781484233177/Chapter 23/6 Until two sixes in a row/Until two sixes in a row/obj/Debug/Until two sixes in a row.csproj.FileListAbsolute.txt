@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\Until two sixes in a row\Until two sixes in a row\bin\Debug\Until two sixes in a row.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\6 Until two sixes in a row\Until two sixes in a row\bin\Debug\Until two sixes in a row.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\6 Until two sixes in a row\Until two sixes in a row\bin\Debug\Until two sixes in a row.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\6 Until two sixes in a row\Until two sixes in a row\bin\Debug\Until two sixes in a row.pdb
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\6 Until two sixes in a row\Until two sixes in a row\obj\Debug\Until two sixes in a row.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\6 Until two sixes in a row\Until two sixes in a row\obj\Debug\Until two sixes in a row.pdb

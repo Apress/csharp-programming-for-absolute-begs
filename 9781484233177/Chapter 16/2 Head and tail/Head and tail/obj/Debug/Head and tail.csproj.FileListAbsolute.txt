@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\Head and tail\Head and tail\bin\Debug\Head and tail.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\2 Head and tail\Head and tail\bin\Debug\Head and tail.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\2 Head and tail\Head and tail\bin\Debug\Head and tail.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\2 Head and tail\Head and tail\bin\Debug\Head and tail.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\2 Head and tail\Head and tail\obj\Debug\Head and tail.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\2 Head and tail\Head and tail\obj\Debug\Head and tail.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\2 Head and tail\Head and tail\obj\Debug\Head and tail.pdb

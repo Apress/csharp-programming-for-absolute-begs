@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\Appending extension\Appending extension\bin\Debug\Appending extension.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\Appending extension\Appending extension\bin\Debug\Appending extension.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\Appending extension\Appending extension\bin\Debug\Appending extension.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\Appending extension\Appending extension\obj\Debug\Appending extension.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\Appending extension\Appending extension\obj\Debug\Appending extension.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\Appending extension\Appending extension\obj\Debug\Appending extension.pdb

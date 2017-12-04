@@ -1,0 +1,2 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\Every other\Every other\bin\Debug\Every other.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\1 Every other\Every other\bin\Debug\Every other.exe.config

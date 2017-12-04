@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\Switch statement\Switch statement\bin\Debug\Switch statement.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\6 Switch statement\Switch statement\bin\Debug\Switch statement.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\6 Switch statement\Switch statement\bin\Debug\Switch statement.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\6 Switch statement\Switch statement\bin\Debug\Switch statement.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\6 Switch statement\Switch statement\obj\Debug\Switch statement.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\6 Switch statement\Switch statement\obj\Debug\Switch statement.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\6 Switch statement\Switch statement\obj\Debug\Switch statement.pdb

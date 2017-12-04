@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\Preformatted text\Preformatted text\bin\Debug\Preformatted text.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\6 Preformatted text\Preformatted text\bin\Debug\Preformatted text.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\6 Preformatted text\Preformatted text\bin\Debug\Preformatted text.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\6 Preformatted text\Preformatted text\bin\Debug\Preformatted text.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\6 Preformatted text\Preformatted text\obj\Debug\Preformatted text.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\6 Preformatted text\Preformatted text\obj\Debug\Preformatted text.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\6 Preformatted text\Preformatted text\obj\Debug\Preformatted text.pdb

@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\Two dice\Two dice\bin\Debug\Two dice.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\5 Two dice\Two dice\bin\Debug\Two dice.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\5 Two dice\Two dice\bin\Debug\Two dice.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\5 Two dice\Two dice\bin\Debug\Two dice.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\5 Two dice\Two dice\obj\Debug\Two dice.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\5 Two dice\Two dice\obj\Debug\Two dice.pdb

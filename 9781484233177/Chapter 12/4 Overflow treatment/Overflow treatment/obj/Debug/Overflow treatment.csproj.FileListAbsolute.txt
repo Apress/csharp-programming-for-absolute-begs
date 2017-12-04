@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-5 (Different kinds of numbers)\Programs\Overflow treatment\Overflow treatment\bin\Debug\Overflow treatment.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-5 (Different kinds of numbers)\Programs\4 Overflow treatment\Overflow treatment\bin\Debug\Overflow treatment.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-5 (Different kinds of numbers)\Programs\4 Overflow treatment\Overflow treatment\bin\Debug\Overflow treatment.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-5 (Different kinds of numbers)\Programs\4 Overflow treatment\Overflow treatment\bin\Debug\Overflow treatment.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-5 (Different kinds of numbers)\Programs\4 Overflow treatment\Overflow treatment\obj\Debug\Overflow treatment.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-5 (Different kinds of numbers)\Programs\4 Overflow treatment\Overflow treatment\obj\Debug\Overflow treatment.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-5 (Different kinds of numbers)\Programs\4 Overflow treatment\Overflow treatment\obj\Debug\Overflow treatment.pdb

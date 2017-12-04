@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\Special characters\Special characters\bin\Debug\Special characters.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\5 Special characters\Special characters\bin\Debug\Special characters.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\5 Special characters\Special characters\bin\Debug\Special characters.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\5 Special characters\Special characters\bin\Debug\Special characters.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\5 Special characters\Special characters\obj\Debug\Special characters.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\5 Special characters\Special characters\obj\Debug\Special characters.pdb

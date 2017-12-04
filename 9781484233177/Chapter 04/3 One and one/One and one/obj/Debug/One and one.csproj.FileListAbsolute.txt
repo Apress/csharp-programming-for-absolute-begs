@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-4 (Variables)\Programs\One and one\One and one\bin\Debug\One and one.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\3 One and one\One and one\bin\Debug\One and one.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\3 One and one\One and one\bin\Debug\One and one.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\3 One and one\One and one\bin\Debug\One and one.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\3 One and one\One and one\obj\Debug\One and one.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\3 One and one\One and one\obj\Debug\One and one.pdb

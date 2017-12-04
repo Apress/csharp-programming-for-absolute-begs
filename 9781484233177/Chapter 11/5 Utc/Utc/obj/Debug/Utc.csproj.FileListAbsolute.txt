@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\Utc\Utc\bin\Debug\Utc.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\5 Utc\Utc\bin\Debug\Utc.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\5 Utc\Utc\bin\Debug\Utc.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\5 Utc\Utc\bin\Debug\Utc.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\5 Utc\Utc\obj\Debug\Utc.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\5 Utc\Utc\obj\Debug\Utc.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\5 Utc\Utc\obj\Debug\Utc.pdb

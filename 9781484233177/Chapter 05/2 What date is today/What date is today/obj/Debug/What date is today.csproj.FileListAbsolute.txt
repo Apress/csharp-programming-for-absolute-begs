@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-5 (Objects)\Programs\What date is today\What date is today\bin\Debug\What date is today.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\2 What date is today\What date is today\bin\Debug\What date is today.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\2 What date is today\What date is today\bin\Debug\What date is today.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\2 What date is today\What date is today\bin\Debug\What date is today.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\2 What date is today\What date is today\obj\Debug\What date is today.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\2 What date is today\What date is today\obj\Debug\What date is today.pdb

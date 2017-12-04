@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\Number formatting\Number formatting\bin\Debug\Number formatting.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\3 Number formatting\Number formatting\bin\Debug\Number formatting.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\3 Number formatting\Number formatting\bin\Debug\Number formatting.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\3 Number formatting\Number formatting\bin\Debug\Number formatting.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\3 Number formatting\Number formatting\obj\Debug\Number formatting.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\3 Number formatting\Number formatting\obj\Debug\Number formatting.pdb

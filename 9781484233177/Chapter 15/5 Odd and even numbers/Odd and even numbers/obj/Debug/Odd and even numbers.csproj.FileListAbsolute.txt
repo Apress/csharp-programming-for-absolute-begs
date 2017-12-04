@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\Odd and even numbers\Odd and even numbers\bin\Debug\Odd and even numbers.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\5 Odd and even numbers\Odd and even numbers\bin\Debug\Odd and even numbers.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\5 Odd and even numbers\Odd and even numbers\bin\Debug\Odd and even numbers.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\5 Odd and even numbers\Odd and even numbers\bin\Debug\Odd and even numbers.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\5 Odd and even numbers\Odd and even numbers\obj\Debug\Odd and even numbers.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\5 Odd and even numbers\Odd and even numbers\obj\Debug\Odd and even numbers.pdb

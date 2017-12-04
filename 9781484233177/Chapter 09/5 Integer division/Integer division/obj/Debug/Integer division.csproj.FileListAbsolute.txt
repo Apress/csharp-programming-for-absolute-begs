@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-2 (Numbers)\Programs\Integer division\Integer division\bin\Debug\Integer division.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-2 (Numbers)\Programs\5 Integer division\Integer division\bin\Debug\Integer division.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-2 (Numbers)\Programs\5 Integer division\Integer division\bin\Debug\Integer division.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-2 (Numbers)\Programs\5 Integer division\Integer division\bin\Debug\Integer division.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-2 (Numbers)\Programs\5 Integer division\Integer division\obj\Debug\Integer division.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-2 (Numbers)\Programs\5 Integer division\Integer division\obj\Debug\Integer division.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-2 (Numbers)\Programs\5 Integer division\Integer division\obj\Debug\Integer division.pdb

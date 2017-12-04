@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\Yes or no reversed\Yes or no reversed\bin\Debug\Yes or no reversed.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\5 Yes or no reversed\Yes or no reversed\bin\Debug\Yes or no reversed.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\5 Yes or no reversed\Yes or no reversed\bin\Debug\Yes or no reversed.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\5 Yes or no reversed\Yes or no reversed\bin\Debug\Yes or no reversed.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\5 Yes or no reversed\Yes or no reversed\obj\Debug\Yes or no reversed.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\5 Yes or no reversed\Yes or no reversed\obj\Debug\Yes or no reversed.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\5 Yes or no reversed\Yes or no reversed\obj\Debug\Yes or no reversed.pdb

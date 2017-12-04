@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\Quadratic equation\Quadratic equation\bin\Debug\Quadratic equation.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\6 Quadratic equation\Quadratic equation\bin\Debug\Quadratic equation.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\6 Quadratic equation\Quadratic equation\bin\Debug\Quadratic equation.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\6 Quadratic equation\Quadratic equation\bin\Debug\Quadratic equation.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\6 Quadratic equation\Quadratic equation\obj\Debug\Quadratic equation.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\6 Quadratic equation\Quadratic equation\obj\Debug\Quadratic equation.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\6 Quadratic equation\Quadratic equation\obj\Debug\Quadratic equation.pdb

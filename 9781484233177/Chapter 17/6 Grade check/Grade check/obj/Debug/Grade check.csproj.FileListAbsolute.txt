@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\Grade check\Grade check\bin\Debug\Grade check.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\6 Grade check\Grade check\bin\Debug\Grade check.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\6 Grade check\Grade check\bin\Debug\Grade check.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\6 Grade check\Grade check\bin\Debug\Grade check.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\6 Grade check\Grade check\obj\Debug\Grade check.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-4 (Compound conditions)\Programs\6 Grade check\Grade check\obj\Debug\Grade check.pdb

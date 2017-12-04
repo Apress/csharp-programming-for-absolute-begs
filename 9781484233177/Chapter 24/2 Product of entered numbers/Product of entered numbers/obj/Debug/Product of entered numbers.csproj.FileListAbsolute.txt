@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\Product of entered numbers\Product of entered numbers\bin\Debug\Product of entered numbers.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\2 Product of entered numbers\Product of entered numbers\bin\Debug\Product of entered numbers.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\2 Product of entered numbers\Product of entered numbers\bin\Debug\Product of entered numbers.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\2 Product of entered numbers\Product of entered numbers\bin\Debug\Product of entered numbers.pdb
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\2 Product of entered numbers\Product of entered numbers\obj\Debug\Product of entered numbers.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\2 Product of entered numbers\Product of entered numbers\obj\Debug\Product of entered numbers.pdb

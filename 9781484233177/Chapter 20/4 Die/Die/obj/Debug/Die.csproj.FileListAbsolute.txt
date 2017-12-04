@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\Die\Die\bin\Debug\Die.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\4 Die\Die\bin\Debug\Die.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\4 Die\Die\bin\Debug\Die.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\4 Die\Die\bin\Debug\Die.pdb
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\4 Die\Die\obj\Debug\Die.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\4 Die\Die\obj\Debug\Die.pdb

@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-4 (Variables)\Programs\Storing text\Storing text\bin\Debug\Storing text.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\1 Storing text\Storing text\bin\Debug\Storing text.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\1 Storing text\Storing text\bin\Debug\Storing text.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\1 Storing text\Storing text\bin\Debug\Storing text.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\1 Storing text\Storing text\obj\Debug\Storing text.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\1 Storing text\Storing text\obj\Debug\Storing text.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\1 Storing text\Storing text\obj\Debug\Storing text.pdb

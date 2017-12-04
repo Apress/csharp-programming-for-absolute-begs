@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\Until second six\Until second six\bin\Debug\Until second six.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\5 Until second six\Until second six\bin\Debug\Until second six.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\5 Until second six\Until second six\bin\Debug\Until second six.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\5 Until second six\Until second six\bin\Debug\Until second six.pdb
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\5 Until second six\Until second six\obj\Debug\Until second six.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\5 Until second six\Until second six\obj\Debug\Until second six.pdb

@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\Single month\Single month\bin\Debug\Single month.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\2 Single month\Single month\bin\Debug\Single month.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\2 Single month\Single month\bin\Debug\Single month.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\2 Single month\Single month\bin\Debug\Single month.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\2 Single month\Single month\obj\Debug\Single month.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\2 Single month\Single month\obj\Debug\Single month.pdb

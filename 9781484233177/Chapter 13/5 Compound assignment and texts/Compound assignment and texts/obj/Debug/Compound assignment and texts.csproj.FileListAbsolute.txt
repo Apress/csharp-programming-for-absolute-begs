@@ -1,0 +1,5 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\Compound assignment and texts\Compound assignment and texts\bin\Debug\Compound assignment and texts.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\Compound assignment and texts\Compound assignment and texts\bin\Debug\Compound assignment and texts.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\Compound assignment and texts\Compound assignment and texts\bin\Debug\Compound assignment and texts.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\Compound assignment and texts\Compound assignment and texts\obj\Debug\Compound assignment and texts.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\Compound assignment and texts\Compound assignment and texts\obj\Debug\Compound assignment and texts.pdb

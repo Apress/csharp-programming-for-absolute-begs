@@ -1,0 +1,2 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\Minimum with built-in function\Minimum with built-in function\bin\Debug\Minimum with built-in function.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\4 Minimum with built-in function\Minimum with built-in function\bin\Debug\Minimum with built-in function.exe.config

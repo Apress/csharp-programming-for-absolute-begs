@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\Repeating the same\Repeating the same\bin\Debug\Repeating the same.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\1 Repeating the same\Repeating the same\bin\Debug\Repeating the same.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\1 Repeating the same\Repeating the same\bin\Debug\Repeating the same.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\1 Repeating the same\Repeating the same\bin\Debug\Repeating the same.pdb
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\1 Repeating the same\Repeating the same\obj\Debug\Repeating the same.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\1 Repeating the same\Repeating the same\obj\Debug\Repeating the same.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-1 (First loops)\Programs\1 Repeating the same\Repeating the same\obj\Debug\Repeating the same.pdb

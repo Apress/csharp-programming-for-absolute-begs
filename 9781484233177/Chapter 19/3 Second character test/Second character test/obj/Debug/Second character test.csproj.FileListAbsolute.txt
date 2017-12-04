@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\Second character test\Second character test\bin\Debug\Second character test.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\3 Second character test\Second character test\bin\Debug\Second character test.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\3 Second character test\Second character test\bin\Debug\Second character test.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\3 Second character test\Second character test\bin\Debug\Second character test.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\3 Second character test\Second character test\obj\Debug\Second character test.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\3 Second character test\Second character test\obj\Debug\Second character test.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-6 (Advanced conditions)\Programs\3 Second character test\Second character test\obj\Debug\Second character test.pdb

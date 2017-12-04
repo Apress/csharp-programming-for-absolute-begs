@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\Path to desktop\Path to desktop\bin\Debug\Path to desktop.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\6 Path to desktop\Path to desktop\bin\Debug\Path to desktop.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\6 Path to desktop\Path to desktop\bin\Debug\Path to desktop.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\6 Path to desktop\Path to desktop\bin\Debug\Path to desktop.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\6 Path to desktop\Path to desktop\obj\Debug\Path to desktop.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\6 Path to desktop\Path to desktop\obj\Debug\Path to desktop.pdb

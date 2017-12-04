@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\Numbers as objects\Numbers as objects\bin\Debug\Numbers as objects.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\2 Numbers as objects\Numbers as objects\bin\Debug\Numbers as objects.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\2 Numbers as objects\Numbers as objects\bin\Debug\Numbers as objects.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\2 Numbers as objects\Numbers as objects\bin\Debug\Numbers as objects.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\2 Numbers as objects\Numbers as objects\obj\Debug\Numbers as objects.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\2 Numbers as objects\Numbers as objects\obj\Debug\Numbers as objects.pdb

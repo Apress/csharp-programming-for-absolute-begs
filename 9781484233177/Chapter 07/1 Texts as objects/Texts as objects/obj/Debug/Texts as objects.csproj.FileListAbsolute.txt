@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\Texts as objects\Texts as objects\bin\Debug\Texts as objects.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\1 Texts as objects\Texts as objects\bin\Debug\Texts as objects.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\1 Texts as objects\Texts as objects\bin\Debug\Texts as objects.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\1 Texts as objects\Texts as objects\bin\Debug\Texts as objects.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\1 Texts as objects\Texts as objects\obj\Debug\Texts as objects.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\1 Texts as objects\Texts as objects\obj\Debug\Texts as objects.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\1 Texts as objects\Texts as objects\obj\Debug\Texts as objects.pdb

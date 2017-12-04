@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\Vat\Vat\bin\Debug\Vat.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\6 Vat\Vat\bin\Debug\Vat.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\6 Vat\Vat\bin\Debug\Vat.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\6 Vat\Vat\bin\Debug\Vat.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\6 Vat\Vat\obj\Debug\Vat.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\6 Vat\Vat\obj\Debug\Vat.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\6 Vat\Vat\obj\Debug\Vat.pdb

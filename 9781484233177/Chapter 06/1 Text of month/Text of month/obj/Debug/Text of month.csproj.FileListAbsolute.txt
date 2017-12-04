@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\Text of month\Text of month\bin\Debug\Text of month.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\1 Text of month\Text of month\bin\Debug\Text of month.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\1 Text of month\Text of month\bin\Debug\Text of month.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\1 Text of month\Text of month\bin\Debug\Text of month.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\1 Text of month\Text of month\obj\Debug\Text of month.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\1 Text of month\Text of month\obj\Debug\Text of month.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\1 Text of month\Text of month\obj\Debug\Text of month.pdb

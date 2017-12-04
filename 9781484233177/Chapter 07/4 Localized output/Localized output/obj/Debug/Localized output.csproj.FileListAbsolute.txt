@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\Localized output\Localized output\bin\Debug\Localized output.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\4 Localized output\Localized output\bin\Debug\Localized output.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\4 Localized output\Localized output\bin\Debug\Localized output.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\4 Localized output\Localized output\bin\Debug\Localized output.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\4 Localized output\Localized output\obj\Debug\Localized output.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\4 Localized output\Localized output\obj\Debug\Localized output.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-7 (Also objects)\Programs\4 Localized output\Localized output\obj\Debug\Localized output.pdb

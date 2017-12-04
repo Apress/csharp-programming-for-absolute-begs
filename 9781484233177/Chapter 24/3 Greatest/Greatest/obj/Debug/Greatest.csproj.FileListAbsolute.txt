@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\Greatest\Greatest\bin\Debug\Greatest.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\3 Greatest\Greatest\bin\Debug\Greatest.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\3 Greatest\Greatest\bin\Debug\Greatest.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\3 Greatest\Greatest\bin\Debug\Greatest.pdb
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\3 Greatest\Greatest\obj\Debug\Greatest.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\3 Greatest\Greatest\obj\Debug\Greatest.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-5 (Acumulating intermediate result)\Programs\3 Greatest\Greatest\obj\Debug\Greatest.pdb

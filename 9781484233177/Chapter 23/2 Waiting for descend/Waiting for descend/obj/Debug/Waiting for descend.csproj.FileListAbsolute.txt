@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\Waiting for descend\Waiting for descend\bin\Debug\Waiting for descend.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\2 Waiting for descend\Waiting for descend\bin\Debug\Waiting for descend.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\2 Waiting for descend\Waiting for descend\bin\Debug\Waiting for descend.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\2 Waiting for descend\Waiting for descend\bin\Debug\Waiting for descend.pdb
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\2 Waiting for descend\Waiting for descend\obj\Debug\Waiting for descend.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\2 Waiting for descend\Waiting for descend\obj\Debug\Waiting for descend.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\2 Waiting for descend\Waiting for descend\obj\Debug\Waiting for descend.pdb

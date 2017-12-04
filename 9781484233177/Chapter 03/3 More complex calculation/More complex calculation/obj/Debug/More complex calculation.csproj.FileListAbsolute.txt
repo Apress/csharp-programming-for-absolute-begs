@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\More complex calculation\More complex calculation\bin\Debug\More complex calculation.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\3 More complex calculation\More complex calculation\bin\Debug\More complex calculation.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\3 More complex calculation\More complex calculation\bin\Debug\More complex calculation.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\3 More complex calculation\More complex calculation\bin\Debug\More complex calculation.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\3 More complex calculation\More complex calculation\obj\Debug\More complex calculation.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-3 (Outputs)\Programs\3 More complex calculation\More complex calculation\obj\Debug\More complex calculation.pdb

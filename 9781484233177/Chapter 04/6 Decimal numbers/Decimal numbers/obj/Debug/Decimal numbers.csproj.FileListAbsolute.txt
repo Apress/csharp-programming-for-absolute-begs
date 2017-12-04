@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-4 (Variables)\Programs\Decimal numbers\Decimal numbers\bin\Debug\Decimal numbers.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\6 Decimal numbers\Decimal numbers\bin\Debug\Decimal numbers.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\6 Decimal numbers\Decimal numbers\bin\Debug\Decimal numbers.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\6 Decimal numbers\Decimal numbers\bin\Debug\Decimal numbers.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\6 Decimal numbers\Decimal numbers\obj\Debug\Decimal numbers.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\6 Decimal numbers\Decimal numbers\obj\Debug\Decimal numbers.pdb

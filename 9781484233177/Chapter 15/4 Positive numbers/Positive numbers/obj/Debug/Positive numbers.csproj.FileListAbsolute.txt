@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\Positive numbers\Positive numbers\bin\Debug\Positive numbers.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\4 Positive numbers\Positive numbers\bin\Debug\Positive numbers.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\4 Positive numbers\Positive numbers\bin\Debug\Positive numbers.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\4 Positive numbers\Positive numbers\bin\Debug\Positive numbers.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\4 Positive numbers\Positive numbers\obj\Debug\Positive numbers.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\4 Positive numbers\Positive numbers\obj\Debug\Positive numbers.pdb

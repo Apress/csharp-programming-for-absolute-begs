@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\Reversed condition\Reversed condition\bin\Debug\Reversed condition.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\2 Reversed condition\Reversed condition\bin\Debug\Reversed condition.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\2 Reversed condition\Reversed condition\bin\Debug\Reversed condition.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\2 Reversed condition\Reversed condition\bin\Debug\Reversed condition.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\2 Reversed condition\Reversed condition\obj\Debug\Reversed condition.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\2 Reversed condition\Reversed condition\obj\Debug\Reversed condition.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\2 Reversed condition\Reversed condition\obj\Debug\Reversed condition.pdb

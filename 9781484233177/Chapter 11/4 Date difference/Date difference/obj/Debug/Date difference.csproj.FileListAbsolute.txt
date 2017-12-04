@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\Date difference\Date difference\bin\Debug\Date difference.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\4 Date difference\Date difference\bin\Debug\Date difference.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\4 Date difference\Date difference\bin\Debug\Date difference.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\4 Date difference\Date difference\bin\Debug\Date difference.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\4 Date difference\Date difference\obj\Debug\Date difference.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\4 Date difference\Date difference\obj\Debug\Date difference.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-4 (Calculations with dates)\Programs\4 Date difference\Date difference\obj\Debug\Date difference.pdb

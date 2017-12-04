@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\Commissions\Commissions\bin\Debug\Commissions.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\3 Commissions\Commissions\bin\Debug\Commissions.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\3 Commissions\Commissions\bin\Debug\Commissions.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\3 Commissions\Commissions\bin\Debug\Commissions.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\3 Commissions\Commissions\obj\Debug\Commissions.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\3 Commissions\Commissions\obj\Debug\Commissions.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\3 Commissions\Commissions\obj\Debug\Commissions.pdb

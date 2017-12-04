@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-4 (Variables)\Programs\Storing number\Storing number\bin\Debug\Storing number.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\2 Storing number\Storing number\bin\Debug\Storing number.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\2 Storing number\Storing number\bin\Debug\Storing number.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\2 Storing number\Storing number\bin\Debug\Storing number.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\2 Storing number\Storing number\obj\Debug\Storing number.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-4 (Variables)\Programs\2 Storing number\Storing number\obj\Debug\Storing number.pdb

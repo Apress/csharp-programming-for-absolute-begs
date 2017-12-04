@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\Soccer\Soccer\bin\Debug\Soccer.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\1 Soccer\Soccer\bin\Debug\Soccer.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\1 Soccer\Soccer\bin\Debug\Soccer.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\1 Soccer\Soccer\bin\Debug\Soccer.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\1 Soccer\Soccer\obj\Debug\Soccer.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\1 Soccer\Soccer\obj\Debug\Soccer.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\1 Soccer\Soccer\obj\Debug\Soccer.pdb

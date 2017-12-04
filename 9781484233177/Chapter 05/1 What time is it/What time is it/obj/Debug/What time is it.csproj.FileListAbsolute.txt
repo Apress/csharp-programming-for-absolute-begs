@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-5 (Objects)\Programs\What time is it\What time is it\bin\Debug\What time is it.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\1 What time is it\What time is it\bin\Debug\What time is it.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\1 What time is it\What time is it\bin\Debug\What time is it.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\1 What time is it\What time is it\bin\Debug\What time is it.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\1 What time is it\What time is it\obj\Debug\What time is it.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\1 What time is it\What time is it\obj\Debug\What time is it.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-5 (Objects)\Programs\1 What time is it\What time is it\obj\Debug\What time is it.pdb

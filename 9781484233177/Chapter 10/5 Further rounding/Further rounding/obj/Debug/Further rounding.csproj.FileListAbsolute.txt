@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\Further rounding\Further rounding\bin\Debug\Further rounding.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\5 Further rounding\Further rounding\bin\Debug\Further rounding.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\5 Further rounding\Further rounding\bin\Debug\Further rounding.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\5 Further rounding\Further rounding\bin\Debug\Further rounding.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\5 Further rounding\Further rounding\obj\Debug\Further rounding.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-3 (Economic calculations)\Programs\5 Further rounding\Further rounding\obj\Debug\Further rounding.pdb

@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\Every week until end of year\Every week until end of year\bin\Debug\Every week until end of year.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\3 Every week until end of year\Every week until end of year\bin\Debug\Every week until end of year.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\3 Every week until end of year\Every week until end of year\bin\Debug\Every week until end of year.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\3 Every week until end of year\Every week until end of year\bin\Debug\Every week until end of year.pdb
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\3 Every week until end of year\Every week until end of year\obj\Debug\Every week until end of year.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-4 (Unknown number of repetitions)\Programs\3 Every week until end of year\Every week until end of year\obj\Debug\Every week until end of year.pdb

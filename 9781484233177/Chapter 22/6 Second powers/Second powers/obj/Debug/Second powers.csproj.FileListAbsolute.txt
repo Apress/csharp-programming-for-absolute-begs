@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\Second powers\Second powers\bin\Debug\Second powers.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\6 Second powers\Second powers\bin\Debug\Second powers.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\6 Second powers\Second powers\bin\Debug\Second powers.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\6 Second powers\Second powers\bin\Debug\Second powers.pdb
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\6 Second powers\Second powers\obj\Debug\Second powers.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-3 (Number series)\Programs\6 Second powers\Second powers\obj\Debug\Second powers.pdb

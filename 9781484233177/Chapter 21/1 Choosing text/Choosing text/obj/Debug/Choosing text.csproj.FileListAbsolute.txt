@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-2 (Improving loops)\Programs\Choosing text\Choosing text\bin\Debug\Choosing text.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-2 (Improving loops)\Programs\1 Choosing text\Choosing text\bin\Debug\Choosing text.exe.config
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-2 (Improving loops)\Programs\1 Choosing text\Choosing text\bin\Debug\Choosing text.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-2 (Improving loops)\Programs\1 Choosing text\Choosing text\bin\Debug\Choosing text.pdb
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-2 (Improving loops)\Programs\1 Choosing text\Choosing text\obj\Debug\Choosing text.exe
+D:\mP\!Knihy\C# (A)\DK4 (Loops)\Téma 4-2 (Improving loops)\Programs\1 Choosing text\Choosing text\obj\Debug\Choosing text.pdb

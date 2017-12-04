@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\Case indifference\Case indifference\bin\Debug\Case indifference.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\6 Case indifference\Case indifference\bin\Debug\Case indifference.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\6 Case indifference\Case indifference\bin\Debug\Case indifference.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\6 Case indifference\Case indifference\bin\Debug\Case indifference.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\6 Case indifference\Case indifference\obj\Debug\Case indifference.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-2 (Starting with conditions)\Programs\6 Case indifference\Case indifference\obj\Debug\Case indifference.pdb

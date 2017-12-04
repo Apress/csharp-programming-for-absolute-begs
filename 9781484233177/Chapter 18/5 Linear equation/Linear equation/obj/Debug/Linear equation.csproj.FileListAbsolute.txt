@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\Linear equation\Linear equation\bin\Debug\Linear equation.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\5 Linear equation\Linear equation\bin\Debug\Linear equation.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\5 Linear equation\Linear equation\bin\Debug\Linear equation.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\5 Linear equation\Linear equation\bin\Debug\Linear equation.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\5 Linear equation\Linear equation\obj\Debug\Linear equation.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\5 Linear equation\Linear equation\obj\Debug\Linear equation.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-5 (Multiple conditions)\Programs\5 Linear equation\Linear equation\obj\Debug\Linear equation.pdb

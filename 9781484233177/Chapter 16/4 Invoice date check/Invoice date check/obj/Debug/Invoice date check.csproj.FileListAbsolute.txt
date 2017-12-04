@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\Invoice date check\Invoice date check\bin\Debug\Invoice date check.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\4 Invoice date check\Invoice date check\bin\Debug\Invoice date check.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\4 Invoice date check\Invoice date check\bin\Debug\Invoice date check.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\4 Invoice date check\Invoice date check\bin\Debug\Invoice date check.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\4 Invoice date check\Invoice date check\obj\Debug\Invoice date check.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\4 Invoice date check\Invoice date check\obj\Debug\Invoice date check.pdb

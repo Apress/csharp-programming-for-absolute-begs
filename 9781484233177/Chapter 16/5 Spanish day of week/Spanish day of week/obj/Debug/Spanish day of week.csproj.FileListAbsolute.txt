@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\Spanish day of week\Spanish day of week\bin\Debug\Spanish day of week.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\5 Spanish day of week\Spanish day of week\bin\Debug\Spanish day of week.exe.config
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\5 Spanish day of week\Spanish day of week\bin\Debug\Spanish day of week.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\5 Spanish day of week\Spanish day of week\bin\Debug\Spanish day of week.pdb
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\5 Spanish day of week\Spanish day of week\obj\Debug\Spanish day of week.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\5 Spanish day of week\Spanish day of week\obj\Debug\Spanish day of week.exe
+D:\mP\!Knihy\C# (A)\DK3 (Conditions)\Téma 3-3 (Practical conditions)\Programs\5 Spanish day of week\Spanish day of week\obj\Debug\Spanish day of week.pdb

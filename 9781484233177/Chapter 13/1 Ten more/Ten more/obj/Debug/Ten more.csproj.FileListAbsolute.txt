@@ -1,0 +1,6 @@
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\Ten more\Ten more\bin\Debug\Ten more.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\1 Ten more\Ten more\bin\Debug\Ten more.exe.config
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\1 Ten more\Ten more\bin\Debug\Ten more.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\1 Ten more\Ten more\bin\Debug\Ten more.pdb
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\1 Ten more\Ten more\obj\Debug\Ten more.exe
+D:\mP\!Knihy\C# (A)\DK2 (Calculations)\Téma 2-6 (Accumulating values)\Programs\1 Ten more\Ten more\obj\Debug\Ten more.pdb

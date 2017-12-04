@@ -1,0 +1,7 @@
+D:\mP\!Knihy\C# (anlicky)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\Single die\Single die\bin\Debug\Single die.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\4 Single die\Single die\bin\Debug\Single die.exe.config
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\4 Single die\Single die\bin\Debug\Single die.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\4 Single die\Single die\bin\Debug\Single die.pdb
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\4 Single die\Single die\obj\Debug\Single die.csprojResolveAssemblyReference.cache
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\4 Single die\Single die\obj\Debug\Single die.exe
+D:\mP\!Knihy\C# (A)\DK1 (Data)\Téma 1-6 (Object actions)\Programs\4 Single die\Single die\obj\Debug\Single die.pdb
